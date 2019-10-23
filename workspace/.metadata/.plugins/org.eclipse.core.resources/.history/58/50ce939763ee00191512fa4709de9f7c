@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_FikCgM8VEemoaP_5ki61lA" id="_FijbcM8VEemoaP_5ki61lA" label="pruebas_BlobSotrage" purpose="pruebas_BlobSotrage" description="pruebas_BlobSotrage" version="0.1" statusCode="" item="_FikCgs8VEemoaP_5ki61lA" displayName="pruebas_BlobSotrage">
+    <author href="../talend.project#_UHcqQI0UEemMsa02HzPV1g"/>
+    <additionalProperties xmi:id="_FioT8M8VEemoaP_5ki61lA" key="created_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_FioT8c8VEemoaP_5ki61lA" key="created_product_version" value="7.1.1.20181026_1147"/>
+    <additionalProperties xmi:id="_FioT8s8VEemoaP_5ki61lA" key="created_date" value="2019-09-04T15:08:28.463+0200"/>
+    <additionalProperties xmi:id="_FioT888VEemoaP_5ki61lA" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_FioT9M8VEemoaP_5ki61lA" key="modified_product_version" value="7.1.1.20181026_1147"/>
+    <additionalProperties xmi:id="_FioT9c8VEemoaP_5ki61lA" key="modified_date" value="2019-10-10T16:13:00.946+0200"/>
+    <additionalProperties xmi:id="_Ba4nsOs-Eema0t0CYJTwHA" key="import_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_Ba4nses-Eema0t0CYJTwHA" key="import_product_version" value="7.1.1.20181026_1147"/>
+    <additionalProperties xmi:id="_Ba4nsus-Eema0t0CYJTwHA" key="import_date" value="2019-10-10T11:12:02.355+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_FikCgc8VEemoaP_5ki61lA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_FikCgs8VEemoaP_5ki61lA" property="_FikCgM8VEemoaP_5ki61lA" state="_FikCgc8VEemoaP_5ki61lA">
+    <process href="pruebas_BlobSotrage_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
