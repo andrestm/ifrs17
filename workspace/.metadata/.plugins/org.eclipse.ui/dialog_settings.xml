@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="ExportItemWizard">
-		<section name="destinationFile">
-			<item value="C:\hola\AVM_20190920_2.zip" key="archivePath"/>
-		</section>
-	</section>
-</section>

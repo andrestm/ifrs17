@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<launchConfiguration type="org.talend.designer.runprocess.jobLaunchConfiguration">
-<stringAttribute key="CURRENT_PROJECT_NAME" value="LP_Prueba1"/>
-<stringAttribute key="TALEND_JOB_ID" value="_wWBxAIwxEemR-9Hl6s8mVg"/>
-<stringAttribute key="TALEND_JOB_NAME" value="Job_Prueba_1"/>
-<stringAttribute key="TALEND_JOB_VERSION" value="0.1"/>
-</launchConfiguration>
